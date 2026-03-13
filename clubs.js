@@ -1,7 +1,6 @@
 // clubs.js
 // Homebrew clubs list — converted from clubs.php
-// Last updated: January 2026
-// Total clubs: 2331
+// Last updated: March 2026
 
 const CLUBS = [
   "1.090",
