@@ -1,6 +1,6 @@
 /**
  * clubs.js, a homebrew clubs list sorted A–Z (case-insensitive). 
- * Last updated: March 2026
+ * Last updated: 09 November 2026
  */
 
 const CLUBS = [
@@ -1988,6 +1988,7 @@ const CLUBS = [
   "South Austin Homebrewers Association",
   "South Australian Brewing Club [Australia]",
   "South Berkeley Brewing",
+  "South Carolina Upstate Brewers Anonymous (SCUBA)",
   "South Central Brewers [Ireland]",
   "South Central PA Homebrewers Association",
   "South Coast Homebrewers Association",
